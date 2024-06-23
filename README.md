@@ -4,10 +4,11 @@ We are going to build a calculator for the portfolio project
 
 Team
 
-*Fakhtaoui Ilyass* 
-He is asked to coordinate the process for the portfolio project because he could arrange and make the steps for each one to do the work.
-*Laachoubi Ayman* 
-He is asked to search for ideas for the portfolio project because he is a creative thinker and an ideas generator.
+*Fakhtaoui Ilyass*: 
+ He is asked to coordinate the process for the portfolio project because he could arrange and make the steps for each one to do the work.
+
+*Laachoubi Ayman* :
+ He is asked to search for ideas for the portfolio project because he is a creative thinker and an ideas generator.
 
 Technologies
 
